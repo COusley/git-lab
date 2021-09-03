@@ -22,4 +22,5 @@ Initial commit
 9. Your branch is up to date with 'origin/main'.
 10. No, it is not
 11. It brings up my git hub link and asks for my Username.
-12. 
+12. Yes
+13. . .. .git .gitignore README.md
